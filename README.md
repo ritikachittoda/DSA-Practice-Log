@@ -11,7 +11,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
 - **Day 2 – Aug 7, 2025**  
   - Problem: Best Time to Buy and Sell Stock  
   - Platform: LeetCode  
-  - [Code](./Day2/BestTimeToBuySellStock.java)
+  - [Code](./Day2/BuySellStock1.java)
+
+- **Day 3 – Aug 8, 2025**  
+  - Problem: Remove Duplicates from Sorted Array 
+  - Platform: LeetCode  
+  - [Code](./Day3/RemoveDuplicate.java)
 
 
 
