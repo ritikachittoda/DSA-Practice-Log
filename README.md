@@ -18,5 +18,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Platform: LeetCode  
   - [Code](./Day3/RemoveDuplicate.java)
 
-
+- **Day 4 – Aug 9, 2025**  
+  - Problem: Power Of Two 
+  - Platform: LeetCode  
+  - [Code](./Day3/Power Of Two.java)
 

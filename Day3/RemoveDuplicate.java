@@ -1,5 +1,3 @@
-package Day3;
-
 // LeetCode Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 // Time: O(n), Space: O(1)
 
