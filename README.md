@@ -21,5 +21,5 @@ This repository contains DSA practice journey. I solve problems from platforms l
 - **Day 4 – Aug 9, 2025**  
   - Problem: Power Of Two 
   - Platform: LeetCode  
-  - [Code](./Day3/Power Of Two.java)
+  - [Code](./Day4/Power Of Two.java)
 
