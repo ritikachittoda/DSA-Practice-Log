@@ -1,6 +1,6 @@
 package Day4;
 
-// LeetCode Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// LeetCode Problem: https://leetcode.com/problems/power-of-two/
 // Time: O(log n), Space: O(1)
 
 class PowerOfTwo {

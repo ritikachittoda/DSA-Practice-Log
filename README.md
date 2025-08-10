@@ -23,3 +23,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Platform: LeetCode  
   - [Code](./Day4/PowerOfTwo.java)
 
+- **Day 5 – Aug 10, 2025**  
+  - Problem: Multiply Strings
+  - Platform: LeetCode  
+  - [Code](./Day5/MultiplyStrings.java)
+
