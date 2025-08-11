@@ -1,4 +1,4 @@
-package Day4;
+package Day04;
 
 // LeetCode Problem: https://leetcode.com/problems/power-of-two/
 // Time: O(log n), Space: O(1)

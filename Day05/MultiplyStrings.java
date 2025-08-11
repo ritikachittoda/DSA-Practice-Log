@@ -1,4 +1,4 @@
-package Day5;
+package Day05;
 
 // LeetCode Problem: https://leetcode.com/problems/multiply-strings/
 // Time: O(m*n), Space: O(m+n)

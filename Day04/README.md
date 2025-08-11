@@ -2,4 +2,4 @@
 
 **Problem Solved:** Power Of Two
 **Platform:** LeetCode  
-**Topics:** Math
+**Topics:** Math, Bit Manipulation
