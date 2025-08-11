@@ -6,25 +6,29 @@ This repository contains DSA practice journey. I solve problems from platforms l
 - **Day 1 – Aug 6, 2025**  
   - Problem: Two Sum  
   - Platform: LeetCode  
-  - [Code](./Day1/TwoSum.java)
+  - [Code](./Day01/TwoSum.java)
 
 - **Day 2 – Aug 7, 2025**  
   - Problem: Best Time to Buy and Sell Stock  
   - Platform: LeetCode  
-  - [Code](./Day2/BuySellStock1.java)
+  - [Code](./Day02/BuySellStock1.java)
 
 - **Day 3 – Aug 8, 2025**  
   - Problem: Remove Duplicates from Sorted Array 
   - Platform: LeetCode  
-  - [Code](./Day3/RemoveDuplicate.java)
+  - [Code](./Day03/RemoveDuplicate.java)
 
 - **Day 4 – Aug 9, 2025**  
   - Problem: Power Of Two 
   - Platform: LeetCode  
-  - [Code](./Day4/PowerOfTwo.java)
+  - [Code](./Day04/PowerOfTwo.java)
 
 - **Day 5 – Aug 10, 2025**  
   - Problem: Multiply Strings
   - Platform: LeetCode  
-  - [Code](./Day5/MultiplyStrings.java)
+  - [Code](./Day05/MultiplyStrings.java)
 
+- **Day 6 – Aug 11, 2025**  
+  - Problem: Search Insert Position
+  - Platform: LeetCode  
+  - [Code](./Day06/SearchInsertPos.java)
