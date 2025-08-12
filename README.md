@@ -32,3 +32,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Search Insert Position
   - Platform: LeetCode  
   - [Code](./Day06/SearchInsertPos.java)
+
+- **Day 7 – Aug 12, 2025**  
+  - Problem: Minimize the Heights
+  - Platform: Geeks for Geeks
+  - [Code](./Day07/MinimizeHeight.java)
