@@ -37,3 +37,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Minimize the Heights
   - Platform: Geeks for Geeks
   - [Code](./Day07/MinimizeHeight.java)
+
+- **Day 8 – Aug 13, 2025**  
+  - Problem: Power Of Three
+  - Platform: LeetCode
+  - [Code](./Day08/PowerOfThree.java)
