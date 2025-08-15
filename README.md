@@ -47,3 +47,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Largest 3-Same-Digit Number in String
   - Platform: LeetCode
   - [Code](./Day09/LargestGoodTriple.java)
+
+- **Day 10 – Aug 15, 2025**  
+  - Problem: Power Of Four
+  - Platform: LeetCode
+  - [Code](./Day09/PowerOfFour.java)
