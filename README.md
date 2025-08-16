@@ -51,4 +51,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
 - **Day 10 – Aug 15, 2025**  
   - Problem: Power Of Four
   - Platform: LeetCode
-  - [Code](./Day09/PowerOfFour.java)
+  - [Code](./Day10/PowerOfFour.java)
+
+- **Day 11 – Aug 16, 2025**  
+  - Problem: Reverse Linked List
+  - Platform: LeetCode
+  - [Code](./Day11/ReverseLinkedList.java)
