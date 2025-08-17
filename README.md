@@ -57,3 +57,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Reverse Linked List
   - Platform: LeetCode
   - [Code](./Day11/ReverseLinkedList.java)
+
+- **Day 12 – Aug 17, 2025**  
+  - Problem: Merge Two Sorted Linked List
+  - Platform: LeetCode
+  - [Code](./Day12/MergeSortedList.java)
