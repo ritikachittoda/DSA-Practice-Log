@@ -62,3 +62,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Merge Two Sorted Linked List
   - Platform: LeetCode
   - [Code](./Day12/MergeSortedList.java)
+
+- **Day 13 – Aug 18, 2025**  
+  - Problem: Second Largest Element 
+  - Platform: GFG
+  - [Code](./Day13/SecondLargest.java)
+
+  - Problem: 3Sum 
+  - Platform: LeetCode
+  - [Code](./Day13/ThreeSum.java)
