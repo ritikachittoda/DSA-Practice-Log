@@ -71,3 +71,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: 3Sum 
   - Platform: LeetCode
   - [Code](./Day13/ThreeSum.java)
+
+- **Day 14 – Aug 19, 2025**  
+  - Problem: Number of Zero-Filled Subarray 
+  - Platform: LeetCode
+  - [Code](./Day14/ZeroFilledSubarr.java)
+
+  - Problem: Remove Duplicates from Sorted Array  
+  - Platform: LeetCode
+  - [Code](./Day14/RemoveDuplicate.java)
