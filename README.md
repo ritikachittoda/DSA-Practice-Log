@@ -80,3 +80,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Remove Duplicates from Sorted Array  
   - Platform: LeetCode
   - [Code](./Day14/RemoveDuplicate.java)
+
+- **Day 15 – Aug 20, 2025**  
+  - Problem: Rotate Array 
+  - Platform: LeetCode
+  - [Code](./Day15/RotateArray.java)
+
+  - Problem: Array To LinkedList   
+  - Platform: Geeks for Geeks
+  - [Code](./Day15/ArrToLinkedList.java)
