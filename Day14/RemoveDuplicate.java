@@ -4,6 +4,7 @@ package Day14;
 // Time: O(n)​, Space: O(1)
 
 public class RemoveDuplicate {
+    
     public int removeDuplicates(int[] nums) {
 
         int i = 1; 
