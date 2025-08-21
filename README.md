@@ -89,3 +89,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Array To LinkedList   
   - Platform: Geeks for Geeks
   - [Code](./Day15/ArrToLinkedList.java)
+
+- **Day 16 – Aug 21, 2025**  
+  - Problem: Word Search 
+  - Platform: LeetCode
+  - [Code](./Day16/WordSearch.java)
+
+  - Problem: Move Zeroes
+  - Platform: LeetCode
+  - [Code](./Day16/MoveZero.java)
