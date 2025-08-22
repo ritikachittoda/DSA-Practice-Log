@@ -98,3 +98,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Move Zeroes
   - Platform: LeetCode
   - [Code](./Day16/MoveZero.java)
+
+- **Day 17 – Aug 22, 2025**  
+  - Problem: Find Minimum Area to Cover All Ones  
+  - Platform: LeetCode
+  - [Code](./Day17/MinRectangleArea.java)
+
+  - Problem: Sorted Array Search 
+  - Platform: Geeks for Geeks
+  - [Code](./Day17/SortedArrSearch.java)
