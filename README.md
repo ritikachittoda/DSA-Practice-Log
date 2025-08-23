@@ -107,3 +107,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Sorted Array Search 
   - Platform: Geeks for Geeks
   - [Code](./Day17/SortedArrSearch.java)
+
+- **Day 18 – Aug 23, 2025**  
+  - Problem: Find the Union 
+  - Platform: Geeks for Geeks
+  - [Code](./Day18/Union.java)
