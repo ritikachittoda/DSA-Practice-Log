@@ -112,3 +112,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find the Union 
   - Platform: Geeks for Geeks
   - [Code](./Day18/Union.java)
+
+- **Day 19 – Aug 24, 2025**  
+  - Problem: Longest Subarray of 1's After Deleting One Element 
+  - Platform: LeetCode
+  - [Code](./Day19/longestSubarrDeleteOne.java)
