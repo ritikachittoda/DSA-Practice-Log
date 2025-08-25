@@ -117,3 +117,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Longest Subarray of 1's After Deleting One Element 
   - Platform: LeetCode
   - [Code](./Day19/longestSubarrDeleteOne.java)
+
+- **Day 20 – Aug 25, 2025**  
+  - Problem: Single Number  
+  - Platform: LeetCode
+  - [Code](./Day20/SingleNumber.java)
+
+  - Problem: Diagonal Traverse
+  - Platform: LeetCode
+  - [Code](./Day20/DiagonalTraverse.java)
