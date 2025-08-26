@@ -126,3 +126,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Diagonal Traverse
   - Platform: LeetCode
   - [Code](./Day20/DiagonalTraverse.java)
+
+- **Day 21 – Aug 26, 2025**  
+  - Problem: Maximum Area of Longest Diagonal Rectangle  
+  - Platform: LeetCode
+  - [Code](./Day21/LongestDiag.java)
+
+  - Problem: Longest Subarray with Sum K
+  - Platform: Geeks for Geeks
+  - [Code](./Day21/SubarrWithSum.java)
