@@ -135,3 +135,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Longest Subarray with Sum K
   - Platform: Geeks for Geeks
   - [Code](./Day21/SubarrWithSum.java)
+
+- **Day 22 – Aug 27, 2025**  
+  - Problem: Valid Parentheses    
+  - Platform: LeetCode
+  - [Code](./Day22/ValidParentheses.java)
+
+  - Problem: Sort Colors
+  - Platform: LeetCode
+  - [Code](./Day22/SortColors.java.java)
