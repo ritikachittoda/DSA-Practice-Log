@@ -143,4 +143,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
 
   - Problem: Sort Colors
   - Platform: LeetCode
-  - [Code](./Day22/SortColors.java.java)
+  - [Code](./Day22/SortColors.java)
+
+- **Day 23 – Aug 28, 2025**  
+  - Problem: Majority Elements    
+  - Platform: LeetCode
+  - [Code](./Day23/MajorityElements.java)
+
+  - Problem: Sort Matrix By Diagonals
+  - Platform: LeetCode
+  - [Code](./Day23/SortMatrixByDiag.java)
