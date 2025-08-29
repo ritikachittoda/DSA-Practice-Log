@@ -153,3 +153,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Sort Matrix By Diagonals
   - Platform: LeetCode
   - [Code](./Day23/SortMatrixByDiag.java)
+
+- **Day 24 – Aug 29, 2025**  
+  - Problem: Assign Cookies     
+  - Platform: LeetCode
+  - [Code](./Day24/AssignCookies.java)
+
+  - Problem: Alice and Bob Playing Flower Game 
+  - Platform: LeetCode
+  - [Code](./Day24/FlowerGame.java)
