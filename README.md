@@ -162,3 +162,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Alice and Bob Playing Flower Game 
   - Platform: LeetCode
   - [Code](./Day24/FlowerGame.java)
+
+- **Day 25 – Aug 30, 2025**  
+  - Problem: Valid Sudoku 
+  - Platform: LeetCode
+  - [Code](./Day25/ValidSudoku.java)
