@@ -167,3 +167,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Valid Sudoku 
   - Platform: LeetCode
   - [Code](./Day25/ValidSudoku.java)
+
+- **Day 26 – Aug 31, 2025**  
+  - Problem: Sudoku Solver 
+  - Platform: LeetCode
+  - [Code](./Day26/SudokuSolver.java)
