@@ -172,3 +172,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Sudoku Solver 
   - Platform: LeetCode
   - [Code](./Day26/SudokuSolver.java)
+
+- **Day 27 – Sept 01, 2025**  
+  - Problem: Delete Node in a Linked List    
+  - Platform: LeetCode
+  - [Code](./Day27/DeleteNode.java)
+
+  - Problem: Count Good Numbers 
+  - Platform: LeetCode
+  - [Code](./Day27/CountGoodNumber.java)
