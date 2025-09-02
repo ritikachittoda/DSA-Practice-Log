@@ -181,3 +181,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Count Good Numbers 
   - Platform: LeetCode
   - [Code](./Day27/CountGoodNumber.java)
+
+- **Day 28 – Sept 02, 2025**  
+  - Problem: Merge Similar Items
+  - Platform: LeetCode
+  - [Code](./Day28/MergeSimilarItems.java)
