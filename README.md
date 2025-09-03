@@ -186,3 +186,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Merge Similar Items
   - Platform: LeetCode
   - [Code](./Day28/MergeSimilarItems.java)
+
+- **Day 29 – Sept 03, 2025**  
+  - Problem: Same Tree
+  - Platform: LeetCode
+  - [Code](./Day29/SameTree.java)
