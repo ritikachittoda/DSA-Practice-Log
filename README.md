@@ -191,3 +191,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Same Tree
   - Platform: LeetCode
   - [Code](./Day29/SameTree.java)
+
+- **Day 30 – Sept 04, 2025**  
+  - Problem: Find Closest Person 
+  - Platform: LeetCode
+  - [Code](./Day30/ClosestPerson.java)
