@@ -196,3 +196,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find Closest Person 
   - Platform: LeetCode
   - [Code](./Day30/ClosestPerson.java)
+
+- **Day 31 – Sept 05, 2025**  
+  - Problem: Jump Game
+  - Platform: LeetCode
+  - [Code](./Day31/JumpGame.java)
