@@ -201,3 +201,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Jump Game
   - Platform: LeetCode
   - [Code](./Day31/JumpGame.java)
+
+- **Day 32 – Sept 06, 2025**  
+  - Problem: Unique Binary Search Trees 
+  - Platform: LeetCode
+  - [Code](./Day32/UniqueBSTree.java)
