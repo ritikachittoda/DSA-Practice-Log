@@ -206,3 +206,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Unique Binary Search Trees 
   - Platform: LeetCode
   - [Code](./Day32/UniqueBSTree.java)
+
+- **Day 33 – Sept 07, 2025**  
+  - Problem: Find N Unique Integers Sum up to Zero 
+  - Platform: LeetCode
+  - [Code](./Day33/SumUptoZero.java)
+
+  - Problem: Implement Stack Using Array
+  - Platform: Geeks For Geeks
+  - [Code](./Day33/StackUsingArr.java)
