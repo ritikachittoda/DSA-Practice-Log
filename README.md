@@ -215,3 +215,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Implement Stack Using Array
   - Platform: Geeks For Geeks
   - [Code](./Day33/StackUsingArr.java)
+
+- **Day 34 – Sept 08, 2025**  
+  - Problem: Convert Integer to the Sum of Two No-Zero Integers 
+  - Platform: LeetCode
+  - [Code](./Day34/SumOfTwoNoZeroInt.java)
+
+  - Problem: Implement Queue Using Arrays
+  - Platform: Geeks For Geeks
+  - [Code](./Day34/QueueUsingArr.java)
