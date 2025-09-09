@@ -224,3 +224,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Implement Queue Using Arrays
   - Platform: Geeks For Geeks
   - [Code](./Day34/QueueUsingArr.java)
+
+- **Day 35 – Sept 09, 2025**  
+  - Problem: Implement Stack Using Queues
+  - Platform: LeetCode
+  - [Code](./Day35/StackUsingQueue.java)
+
+  - Problem: Implement Queue Using Stacks
+  - Platform: LeetCode
+  - [Code](./Day35/QueueUsingStack.java)
