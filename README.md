@@ -233,3 +233,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Implement Queue Using Stacks
   - Platform: LeetCode
   - [Code](./Day35/QueueUsingStack.java)
+
+- **Day 36 – Sept 10, 2025**  
+  - Problem: Stack Using Linked List
+  - Platform: Geeks for Geeks
+  - [Code](./Day36/StackUsingLinkedList.java)
+
+  - Problem: Queue Using Linked List
+  - Platform: Geeks for Geeks
+  - [Code](./Day36/QueueUsingLinkedList.java)
