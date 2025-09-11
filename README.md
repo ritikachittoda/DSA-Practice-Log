@@ -242,3 +242,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Queue Using Linked List
   - Platform: Geeks for Geeks
   - [Code](./Day36/QueueUsingLinkedList.java)
+
+- **Day 37 – Sept 11, 2025**  
+  - Problem: Sort Vowels in a String
+  - Platform: LeetCode
+  - [Code](./Day37/SortVowels.java)
+
+  - Problem: Min Stack
+  - Platform: LeetCode
+  - [Code](./Day37/MinStack.java)
