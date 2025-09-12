@@ -13,7 +13,7 @@ class Node{
     }
 }
 
-public class LinkedListInsetion {
+public class LinkedListInsertion {
     public Node insertAtEnd(Node head, int x) {
         Node temp = head;
         
