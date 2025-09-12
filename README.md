@@ -251,3 +251,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Min Stack
   - Platform: LeetCode
   - [Code](./Day37/MinStack.java)
+
+- **Day 38 – Sept 12, 2025**  
+  - Problem: Vowels Game in a String
+  - Platform: LeetCode
+  - [Code](./Day38/VowelGame.java)
+
+  - Problem: Linked List Insertion At End
+  - Platform: LeetCode
+  - [Code](./Day38/LinkedListInsertion.java)
