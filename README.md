@@ -260,3 +260,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Linked List Insertion At End
   - Platform: LeetCode
   - [Code](./Day38/LinkedListInsertion.java)
+
+- **Day 39 – Sept 13, 2025**  
+  - Problem: Find Most Frequent vowel and Consonant
+  - Platform: LeetCode
+  - [Code](./Day39/VowelConsonantMaxFreq.java)
+
+  - Problem: Search in Linked List 
+  - Platform: LeetCode
+  - [Code](./Day38/SearchInLL.java)
