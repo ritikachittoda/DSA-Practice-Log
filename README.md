@@ -267,5 +267,14 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - [Code](./Day39/VowelConsonantMaxFreq.java)
 
   - Problem: Search in Linked List 
-  - Platform: LeetCode
-  - [Code](./Day38/SearchInLL.java)
+  - Platform: Geeks for Geeks
+  - [Code](./Day39/SearchInLL.java)
+
+- **Day 40 – Sept 14, 2025**  
+  - Problem: Insertion at Doubly Linked List  
+  - Platform: Geeks for Geeks
+  - [Code](./Day40/InsertInDoublyLL.java)
+
+  - Problem: Delete in a Doubly Linked List
+  - Platform: Geeks for Geeks
+  - [Code](./Day40/DeleteInDoublyLL.java)
