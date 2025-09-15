@@ -278,3 +278,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Delete in a Doubly Linked List
   - Platform: Geeks for Geeks
   - [Code](./Day40/DeleteInDoublyLL.java)
+
+- **Day 41 – Sept 15, 2025**  
+  - Problem: Maximum Number Of Words You Can Type
+  - Platform: LeetCode
+  - [Code](./Day41/MaxWordCanType.java)
+
+  - Problem: Reverse a Doubly Linked List
+  - Platform: Geeks for Geeks
+  - [Code](./Day41/ReverseDoublyLL.java)
