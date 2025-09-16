@@ -287,3 +287,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Reverse a Doubly Linked List
   - Platform: Geeks for Geeks
   - [Code](./Day41/ReverseDoublyLL.java)
+
+- **Day 42 – Sept 16, 2025**  
+  - Problem: Binary Tree Preorder Traversal
+  - Platform: LeetCode
+  - [Code](./Day42/PreorderTraversal.java)
+
+  - Problem: Binary Tree Inorder Traversal
+  - Platform: LeetCode
+  - [Code](./Day42/InorderTraversal.java)
