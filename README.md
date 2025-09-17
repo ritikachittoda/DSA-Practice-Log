@@ -296,3 +296,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Binary Tree Inorder Traversal
   - Platform: LeetCode
   - [Code](./Day42/InorderTraversal.java)
+
+- **Day 43 – Sept 17, 2025**  
+  - Problem: Binary Tree Postorder Traversal
+  - Platform: LeetCode
+  - [Code](./Day43/PostorderTraversal.java)
+
+  - Problem: Binary Tree Level Order Traversal
+  - Platform: LeetCode
+  - [Code](./Day43/LevelOrderTraversal.java)
