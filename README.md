@@ -305,3 +305,8 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Binary Tree Level Order Traversal
   - Platform: LeetCode
   - [Code](./Day43/LevelOrderTraversal.java)
+
+- **Day 44 – Sept 18, 2025**  
+  - Problem: Maximum Depth Of Binary Tree
+  - Platform: LeetCode
+  - [Code](./Day44/MaxDepthBinaryTree.java)
