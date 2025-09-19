@@ -310,3 +310,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Maximum Depth Of Binary Tree
   - Platform: LeetCode
   - [Code](./Day44/MaxDepthBinaryTree.java)
+
+- **Day 45 – Sept 19, 2025**  
+  - Problem: Longest Substring Without Repeating Characters
+  - Platform: LeetCode
+  - [Code](./Day45/NonRepeatingSubStr.java)
+
+  - Problem: Find First and Last Position Of Element in Sorted Array 
+  - Platform: LeetCode
+  - [Code](./Day45/FirstLastPosition.java)
