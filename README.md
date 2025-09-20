@@ -319,3 +319,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find First and Last Position Of Element in Sorted Array 
   - Platform: LeetCode
   - [Code](./Day45/FirstLastPosition.java)
+
+- **Day 46 – Sept 20, 2025**  
+  - Problem: Single Element in a Sorted Array 
+  - Platform: LeetCode
+  - [Code](./Day46/SingleElement.java)
+
+  - Problem: Find Minimum in Rotated Sorted Array 
+  - Platform: LeetCode
+  - [Code](./Day46/MinInRotatedArray.java)
