@@ -328,3 +328,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find Minimum in Rotated Sorted Array 
   - Platform: LeetCode
   - [Code](./Day46/MinInRotatedArray.java)
+
+- **Day 47 – Sept 21, 2025**  
+  - Problem: Kth Largest Element in an Array 
+  - Platform: LeetCode
+  - [Code](./Day47/KthLargest.java)
+
+  - Problem: Delete Node in BST 
+  - Platform: LeetCode
+  - [Code](./Day47/DeleteNodeInBST.java)
