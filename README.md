@@ -337,3 +337,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Delete Node in BST 
   - Platform: LeetCode
   - [Code](./Day47/DeleteNodeInBST.java)
+
+- **Day 48 – Sept 22, 2025**  
+  - Problem: Kth Smallest Element in a BST 
+  - Platform: LeetCode
+  - [Code](./Day48/KthSmallestInBST.java)
+
+  - Problem: Insert into a BST 
+  - Platform: LeetCode
+  - [Code](./Day48/InsertIntoBST.java)
