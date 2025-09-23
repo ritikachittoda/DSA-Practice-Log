@@ -346,3 +346,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Insert into a BST 
   - Platform: LeetCode
   - [Code](./Day48/InsertIntoBST.java)
+
+- **Day 49 – Sept 23, 2025**  
+  - Problem: Compare Version Number 
+  - Platform: LeetCode
+  - [Code](./Day49/CompareVersionNum.java)
+
+  - Problem: Odd Even Linked List
+  - Platform: LeetCode
+  - [Code](./Day49/OddEvenLL.java)
