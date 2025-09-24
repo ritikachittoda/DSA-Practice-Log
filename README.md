@@ -355,3 +355,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Odd Even Linked List
   - Platform: LeetCode
   - [Code](./Day49/OddEvenLL.java)
+
+- **Day 50 – Sept 24, 2025**  
+  - Problem: Fraction To Recurring Decimal 
+  - Platform: LeetCode
+  - [Code](./Day50/FractionToDecimal.java)
+
+  - Problem: Divide Two Integers
+  - Platform: LeetCode
+  - [Code](./Day50/DivideInteger.java)
