@@ -364,3 +364,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Divide Two Integers
   - Platform: LeetCode
   - [Code](./Day50/DivideInteger.java)
+
+- **Day 51 – Sept 25, 2025**  
+  - Problem: Linked List Cycle  
+  - Platform: LeetCode
+  - [Code](./Day51/DetectCycle.java)
+
+  - Problem: Lemonade Change
+  - Platform: LeetCode
+  - [Code](./Day51/LemonadeChange.java)
