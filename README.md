@@ -373,3 +373,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Lemonade Change
   - Platform: LeetCode
   - [Code](./Day51/LemonadeChange.java)
+
+- **Day 52 – Sept 26, 2025**  
+  - Problem: Valid Triangle Number 
+  - Platform: LeetCode
+  - [Code](./Day52/ValidTriangle.java)
+
+  - Problem: Rearrange Array Elements by Sign
+  - Platform: LeetCode
+  - [Code](./Day52/ArrayBySign.java)
