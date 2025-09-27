@@ -382,3 +382,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Rearrange Array Elements by Sign
   - Platform: LeetCode
   - [Code](./Day52/ArrayBySign.java)
+
+- **Day 53 – Sept 27, 2025**  
+  - Problem: Largest Triangle Area 
+  - Platform: LeetCode
+  - [Code](./Day53/LargestTriangleArea.java)
+
+  - Problem: Majority Frequency Characters
+  - Platform: LeetCode
+  - [Code](./Day53/MajorityFreqChar.java)
