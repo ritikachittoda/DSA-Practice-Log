@@ -23,6 +23,7 @@ public class MajorityFreqChar {
 
         int maxGroupSize = 0;
         int bestFreq = 0;
+        
         for(int key : map.keySet()) {
             int groupSize = (map.get(key));
             if((groupSize > maxGroupSize) || (groupSize == maxGroupSize && key > bestFreq)) {
