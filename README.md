@@ -391,3 +391,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Majority Frequency Characters
   - Platform: LeetCode
   - [Code](./Day53/MajorityFreqChar.java)
+
+- **Day 54 – Sept 28, 2025**  
+  - Problem: Largest Perimeter Triangle  
+  - Platform: LeetCode
+  - [Code](./Day54/LargestPerimeter.java)
+
+  - Problem: Add Two Numbers
+  - Platform: LeetCode
+  - [Code](./Day54/AddTwoNum.java)
