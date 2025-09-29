@@ -400,3 +400,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Add Two Numbers
   - Platform: LeetCode
   - [Code](./Day54/AddTwoNum.java)
+
+- **Day 55 – Sept 29, 2025**  
+  - Problem: Minimum Score Triangulation Of Polygon  
+  - Platform: LeetCode
+  - [Code](./Day55/MinScoreTriangulation.java)
+
+  - Problem: Remove Nth Node From End Of List     
+  - Platform: LeetCode
+  - [Code](./Day55/RemoveNthFromEnd.java)
