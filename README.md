@@ -409,3 +409,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Remove Nth Node From End Of List     
   - Platform: LeetCode
   - [Code](./Day55/RemoveNthFromEnd.java)
+
+- **Day 56 – Sept 30, 2025**  
+  - Problem: Find Triangular Sum of an Array  
+  - Platform: LeetCode
+  - [Code](./Day56/TriangularSum.java)
+
+  - Problem: Delete Middle Node Of a Linked List     
+  - Platform: LeetCode
+  - [Code](./Day56/DeleteMiddleNode.java)
