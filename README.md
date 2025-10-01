@@ -418,3 +418,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Delete Middle Node Of a Linked List     
   - Platform: LeetCode
   - [Code](./Day56/DeleteMiddleNode.java)
+
+- **Day 57 – Oct 01, 2025**  
+  - Problem: Water Bottles  
+  - Platform: LeetCode
+  - [Code](./Day57/WaterBottles.java)
+
+  - Problem: Next Greater Element 1      
+  - Platform: LeetCode
+  - [Code](./Day57/NextGreaterElement.java)
