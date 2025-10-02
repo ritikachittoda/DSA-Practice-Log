@@ -427,3 +427,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Next Greater Element 1      
   - Platform: LeetCode
   - [Code](./Day57/NextGreaterElement.java)
+
+  - **Day 58 – Oct 02, 2025**  
+  - Problem: Water Bottles II 
+  - Platform: LeetCode
+  - [Code](./Day58/WaterBottles2.java)
+
+  - Problem: Rotate String      
+  - Platform: LeetCode
+  - [Code](./Day58/RotateString.java)
