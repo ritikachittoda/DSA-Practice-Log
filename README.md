@@ -428,7 +428,7 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Platform: LeetCode
   - [Code](./Day57/NextGreaterElement.java)
 
-  - **Day 58 – Oct 02, 2025**  
+- **Day 58 – Oct 02, 2025**  
   - Problem: Water Bottles II 
   - Platform: LeetCode
   - [Code](./Day58/WaterBottles2.java)
@@ -436,3 +436,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Rotate String      
   - Platform: LeetCode
   - [Code](./Day58/RotateString.java)
+
+- **Day 59 – Oct 03, 2025**  
+  - Problem: Trapping Rain Water II  
+  - Platform: LeetCode
+  - [Code](./Day59/TrappingWaterII.java)
+
+  - Problem: Maximum Subarray     
+  - Platform: LeetCode
+  - [Code](./Day59/MaxSumSubarray.java)
