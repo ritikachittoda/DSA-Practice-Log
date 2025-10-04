@@ -445,3 +445,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Maximum Subarray     
   - Platform: LeetCode
   - [Code](./Day59/MaxSumSubarray.java)
+
+- **Day 60 – Oct 04, 2025**  
+  - Problem: Distribute Candies Among Children II  
+  - Platform: LeetCode
+  - [Code](./Day60/DistributeCandiesII.java)
+
+  - Problem: Container With Most Water   
+  - Platform: LeetCode
+  - [Code](./Day60/MaxArea.java)
