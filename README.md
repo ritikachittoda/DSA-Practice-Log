@@ -454,3 +454,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Container With Most Water   
   - Platform: LeetCode
   - [Code](./Day60/MaxArea.java)
+
+- **Day 61 – Oct 05, 2025**  
+  - Problem: Palindrome Linked List   
+  - Platform: LeetCode
+  - [Code](./Day61/PalindromeLL.java)
+
+  - Problem: Lowest Common Ancestor of a Binary Tree  
+  - Platform: LeetCode
+  - [Code](./Day61/LCAOfBinaryTree.java)
