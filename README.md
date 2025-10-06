@@ -463,3 +463,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Lowest Common Ancestor of a Binary Tree  
   - Platform: LeetCode
   - [Code](./Day61/LCAOfBinaryTree.java)
+
+- **Day 62 – Oct 06, 2025**  
+  - Problem: Subsets   
+  - Platform: LeetCode
+  - [Code](./Day62/Subsets.java)
+
+  - Problem: Pacific Atlantic Water Flow   
+  - Platform: LeetCode
+  - [Code](./Day62/WaterFlow.java)
