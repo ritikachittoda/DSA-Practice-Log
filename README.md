@@ -472,3 +472,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Pacific Atlantic Water Flow   
   - Platform: LeetCode
   - [Code](./Day62/WaterFlow.java)
+
+- **Day 63 – Oct 07, 2025**  
+  - Problem: Balanced Binary Tree   
+  - Platform: LeetCode
+  - [Code](./Day63/BalancedTree.java)
+
+  - Problem: Avoid Flood in The City  
+  - Platform: LeetCode
+  - [Code](./Day63/AvoidFlood.java)
