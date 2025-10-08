@@ -481,3 +481,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Avoid Flood in The City  
   - Platform: LeetCode
   - [Code](./Day63/AvoidFlood.java)
+
+- **Day 64 – Oct 08, 2025**  
+  - Problem: Swim in Rising Water  
+  - Platform: LeetCode
+  - [Code](./Day64/SwimInRisingWater.java)
+
+  - Problem: Successful Pairs of Spells and Potions  
+  - Platform: LeetCode
+  - [Code](./Day64/SpellAndPotion.java)
