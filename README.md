@@ -490,3 +490,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Successful Pairs of Spells and Potions  
   - Platform: LeetCode
   - [Code](./Day64/SpellAndPotion.java)
+
+- **Day 65 – Oct 09, 2025**  
+  - Problem: Find the Minimum Amount of Time to Brew Potions  
+  - Platform: LeetCode
+  - [Code](./Day65/BrewPotions.java)
+
+  - Problem: Sort List  
+  - Platform: LeetCode
+  - [Code](./Day65/SortList.java)
