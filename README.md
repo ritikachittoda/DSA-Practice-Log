@@ -499,3 +499,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Sort List  
   - Platform: LeetCode
   - [Code](./Day65/SortList.java)
+
+- **Day 66 – Oct 10, 2025**  
+  - Problem: Taking Maximum Energy From the Mystic Dungeon  
+  - Platform: LeetCode
+  - [Code](./Day66/MysticDungeon.java)
+
+  - Problem: Intersection of Two Linked Lists  
+  - Platform: LeetCode
+  - [Code](./Day66/IntersectionOfLL.java)
