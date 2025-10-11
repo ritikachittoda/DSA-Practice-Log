@@ -17,7 +17,7 @@ public class MergeKLists {
         return mergeRange(lists, 0, lists.length - 1);
     }
     
-    private ListNode mergeRange (ListNode[] lists, int left, int right) {
+    private ListNode mergeRange(ListNode[] lists, int left, int right) {
         if (left == right) return lists[left];
         if (left > right) return null;
 
