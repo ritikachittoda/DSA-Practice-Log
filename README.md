@@ -508,3 +508,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Intersection of Two Linked Lists  
   - Platform: LeetCode
   - [Code](./Day66/IntersectionOfLL.java)
+
+- **Day 67 – Oct 11, 2025**  
+  - Problem: Reverse Nodes in k-Group  
+  - Platform: LeetCode
+  - [Code](./Day67/ReverseKGroupNode.java)
+
+  - Problem: Merge k Sorted Lists  
+  - Platform: LeetCode
+  - [Code](./Day67/MergeKLists.java)
