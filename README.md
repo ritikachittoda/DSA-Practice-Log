@@ -518,4 +518,12 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Platform: LeetCode
   - [Code](./Day67/MergeKLists.java)
 
+- **Day 68 – Oct 12, 2025**  
+  - Problem: Maximum Total Damage With Spell Casting  
+  - Platform: LeetCode
+  - [Code](./Day68/SpellCasting.java)
+
+  - Problem: Rotate List  
+  - Platform: LeetCode
+  - [Code](./Day68/RotateList.java)
   
