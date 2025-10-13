@@ -526,4 +526,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Rotate List  
   - Platform: LeetCode
   - [Code](./Day68/RotateList.java)
+
+- **Day 69 – Oct 13, 2025**  
+  - Problem: Find Resultant Array After Removing Anagrams  
+  - Platform: LeetCode
+  - [Code](./Day69/RemoveAnagrams.java)
+
+  - Problem: Diameter of Binary Tree   
+  - Platform: LeetCode
+  - [Code](./Day69/DiameterOfTree.java)
   
