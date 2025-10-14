@@ -535,4 +535,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Diameter of Binary Tree   
   - Platform: LeetCode
   - [Code](./Day69/DiameterOfTree.java)
+
+- **Day 70 – Oct 14, 2025**  
+  - Problem: Adjacent Increasing Subarrays Detection I  
+  - Platform: LeetCode
+  - [Code](./Day70/IncreasingSubarray.java)
+
+  - Problem: Binary Tree Maximum Path Sum   
+  - Platform: LeetCode
+  - [Code](./Day70/PathSum.java)
   
