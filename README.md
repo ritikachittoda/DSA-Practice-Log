@@ -544,4 +544,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Binary Tree Maximum Path Sum   
   - Platform: LeetCode
   - [Code](./Day70/PathSum.java)
+
+- **Day 71 – Oct 15, 2025**  
+  - Problem: Adjacent Increasing Subarrays Detection II  
+  - Platform: LeetCode
+  - [Code](./Day71/IncreasingSubarrayII.java)
+
+  - Problem: Same Tree   
+  - Platform: LeetCode
+  - [Code](./Day71/SameTree.java)
   
