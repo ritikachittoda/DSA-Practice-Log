@@ -553,4 +553,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Same Tree   
   - Platform: LeetCode
   - [Code](./Day71/SameTree.java)
+
+- **Day 72 – Oct 16, 2025**  
+  - Problem: Smallest Missing Non-negative Integer After Operations 
+  - Platform: LeetCode
+  - [Code](./Day72/SmallestInteger.java)
+
+  - Problem: Symmetric Tree   
+  - Platform: LeetCode
+  - [Code](./Day72/SymmetricTree.java)
   
