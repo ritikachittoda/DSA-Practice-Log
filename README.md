@@ -562,4 +562,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Symmetric Tree   
   - Platform: LeetCode
   - [Code](./Day72/SymmetricTree.java)
+
+- **Day 73 – Oct 17, 2025**  
+  - Problem: Search a 2D Matrix 
+  - Platform: LeetCode
+  - [Code](./Day73/Search2DMatrix.java)
+
+  - Problem: Count the Number of Fair Pairs   
+  - Platform: LeetCode
+  - [Code](./Day73/CountFairPairs.java)
   
