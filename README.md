@@ -571,4 +571,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Count the Number of Fair Pairs   
   - Platform: LeetCode
   - [Code](./Day73/CountFairPairs.java)
+
+- **Day 74 – Oct 18, 2025**  
+  - Problem: Spiral Matrix 
+  - Platform: LeetCode
+  - [Code](./Day74/SpiralMatrix.java)
   
