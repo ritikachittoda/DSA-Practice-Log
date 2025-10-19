@@ -576,4 +576,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Spiral Matrix 
   - Platform: LeetCode
   - [Code](./Day74/SpiralMatrix.java)
+
+- **Day 75 – Oct 19, 2025**  
+  - Problem: Rotate Image 
+  - Platform: LeetCode
+  - [Code](./Day75/RotateImage.java)
   
