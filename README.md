@@ -581,4 +581,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Rotate Image 
   - Platform: LeetCode
   - [Code](./Day75/RotateImage.java)
+
+- **Day 76 – Oct 20, 2025**  
+  - Problem: Next Permutation
+  - Platform: LeetCode
+  - [Code](./Day76/NextPermutation.java)
   
