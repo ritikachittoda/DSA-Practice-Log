@@ -586,4 +586,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Next Permutation
   - Platform: LeetCode
   - [Code](./Day76/NextPermutation.java)
+
+- **Day 77 – Oct 21, 2025**  
+  - Problem: Set Matrix Zeroes 
+  - Platform: LeetCode
+  - [Code](./Day77/SetMatrixZeroes.java)
+
+  - Problem: Median Of Two Sorted Arrays   
+  - Platform: LeetCode
+  - [Code](./Day77/MedianOfArray.java)
   
