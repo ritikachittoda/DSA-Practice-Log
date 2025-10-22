@@ -595,4 +595,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Median Of Two Sorted Arrays   
   - Platform: LeetCode
   - [Code](./Day77/MedianOfArray.java)
+
+- **Day 78 – Oct 22, 2025**  
+  - Problem: Swap Nodes in Pairs
+  - Platform: LeetCode
+  - [Code](./Day78/SwapNodes.java)
   
