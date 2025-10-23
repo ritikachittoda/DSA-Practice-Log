@@ -600,4 +600,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Swap Nodes in Pairs
   - Platform: LeetCode
   - [Code](./Day78/SwapNodes.java)
+
+- **Day 79 – Oct 23, 2025**  
+  - Problem: Remove Outermost Parentheses
+  - Platform: LeetCode
+  - [Code](./Day79/RemoveParentheses.java)
+
+  - Problem: Check If Digits Are Equal in String After Operation I
+  - Platform: LeetCode
+  - [Code](./Day79/SameDigit.java)
   
