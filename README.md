@@ -609,4 +609,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Check If Digits Are Equal in String After Operation I
   - Platform: LeetCode
   - [Code](./Day79/SameDigit.java)
+
+- **Day 80 – Oct 24, 2025**  
+  - Problem: Reverse Words in a String
+  - Platform: LeetCode
+  - [Code](./Day80/ReverseWords.java)
+
+  - Problem: Smallest Missing Multiple of K
+  - Platform: LeetCode
+  - [Code](./Day80/MissingMultiple.java)
   
