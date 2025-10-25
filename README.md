@@ -618,4 +618,13 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Smallest Missing Multiple of K
   - Platform: LeetCode
   - [Code](./Day80/MissingMultiple.java)
+
+- **Day 81 – Oct 25, 2025**  
+  - Problem: Find the Smallest Divisor Given a Threshold
+  - Platform: LeetCode
+  - [Code](./Day81/SmallestDivisor.java)
+
+  - Problem: Lexicographically Smallest String After Reverse
+  - Platform: LeetCode
+  - [Code](./Day81/SmallestString.java)
   
