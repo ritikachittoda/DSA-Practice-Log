@@ -632,4 +632,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Calculate Money in Leetcode Bank
   - Platform: LeetCode
   - [Code](./Day82/MoneyInBank.java)
+
+- **Day 83 – Oct 27, 2025**  
+  - Problem: Flood Fill
+  - Platform: LeetCode
+  - [Code](./Day83/FloodFill.java)
   
