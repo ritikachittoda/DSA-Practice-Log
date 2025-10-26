@@ -627,4 +627,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Lexicographically Smallest String After Reverse
   - Platform: LeetCode
   - [Code](./Day81/SmallestString.java)
+
+- **Day 82 – Oct 26, 2025**  
+  - Problem: Calculate Money in Leetcode Bank
+  - Platform: LeetCode
+  - [Code](./Day82/MoneyInBank.java)
   
