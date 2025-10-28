@@ -637,4 +637,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Flood Fill
   - Platform: LeetCode
   - [Code](./Day83/FloodFill.java)
+
+- **Day 84 – Oct 28, 2025**  
+  - Problem: Make Array Elements Equal To Zero
+  - Platform: LeetCode
+  - [Code](./Day84/ElementEqualToZero.java)
   
