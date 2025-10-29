@@ -642,4 +642,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Make Array Elements Equal To Zero
   - Platform: LeetCode
   - [Code](./Day84/ElementEqualToZero.java)
+
+- **Day 85 – Oct 29, 2025**  
+  - Problem: Smallest Number With All Set Bits
+  - Platform: LeetCode
+  - [Code](./Day85/AllSetBits.java)
   
