@@ -647,4 +647,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Smallest Number With All Set Bits
   - Platform: LeetCode
   - [Code](./Day85/AllSetBits.java)
+
+- **Day 86 – Oct 30, 2025**  
+  - Problem: Minimum Increments on Subarrays to Form a Target Array 
+  - Platform: LeetCode
+  - [Code](./Day86/MinIncrement.java)
   
