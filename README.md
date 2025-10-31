@@ -652,4 +652,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Minimum Increments on Subarrays to Form a Target Array 
   - Platform: LeetCode
   - [Code](./Day86/MinIncrement.java)
+
+- **Day 87 – Oct 31, 2025**  
+  - Problem: Find All Duplicates in an Array  
+  - Platform: LeetCode
+  - [Code](./Day87/Duplicate.java)
   
