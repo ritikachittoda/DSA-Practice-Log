@@ -661,5 +661,5 @@ This repository contains DSA practice journey. I solve problems from platforms l
 - **Day 88 – Nov 1, 2025**  
   - Problem: Delete Nodes From Linked List Present in Array  
   - Platform: LeetCode
-  - [Code](./Day88/ModifiyLL.java)
+  - [Code](./Day88/ModifyLL.java)
   
