@@ -657,4 +657,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find All Duplicates in an Array  
   - Platform: LeetCode
   - [Code](./Day87/Duplicate.java)
+
+- **Day 88 – Nov 1, 2025**  
+  - Problem: Delete Nodes From Linked List Present in Array  
+  - Platform: LeetCode
+  - [Code](./Day88/ModifiyLL.java)
   
