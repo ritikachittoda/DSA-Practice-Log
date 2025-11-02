@@ -662,4 +662,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Delete Nodes From Linked List Present in Array  
   - Platform: LeetCode
   - [Code](./Day88/ModifyLL.java)
+
+- **Day 89 – Nov 2, 2025**  
+  - Problem: Count Unguarded Cells in the Grid  
+  - Platform: LeetCode
+  - [Code](./Day89/UnguardedCells.java)
   
