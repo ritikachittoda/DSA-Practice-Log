@@ -667,4 +667,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Count Unguarded Cells in the Grid  
   - Platform: LeetCode
   - [Code](./Day89/UnguardedCells.java)
+
+- **Day 90 – Nov 3, 2025**  
+  - Problem: Minimum Time to Make Rope Colorful  
+  - Platform: LeetCode
+  - [Code](./Day90/MakeRopeColorful.java)
   
