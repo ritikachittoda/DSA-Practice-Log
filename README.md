@@ -672,4 +672,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Minimum Time to Make Rope Colorful  
   - Platform: LeetCode
   - [Code](./Day90/MakeRopeColorful.java)
+
+- **Day 91 – Nov 4, 2025**  
+  - Problem: Find X-Sum of All K-Long Subarrays I  
+  - Platform: LeetCode
+  - [Code](./Day91/XSum.java)
   
