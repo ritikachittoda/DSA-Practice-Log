@@ -677,4 +677,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Find X-Sum of All K-Long Subarrays I  
   - Platform: LeetCode
   - [Code](./Day91/XSum.java)
+
+- **Day 92 – Nov 5, 2025**  
+  - Problem: Delete Leaves With a Given Value  
+  - Platform: LeetCode
+  - [Code](./Day92/DeleteLeaves.java)
   
