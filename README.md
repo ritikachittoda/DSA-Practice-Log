@@ -682,4 +682,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Delete Leaves With a Given Value  
   - Platform: LeetCode
   - [Code](./Day92/DeleteLeaves.java)
+
+- **Day 93 – Nov 6, 2025**  
+  - Problem: Maximum Product of Three Elements After One Replacement 
+  - Platform: LeetCode
+  - [Code](./Day93/MaxThreeProduct.java)
   
