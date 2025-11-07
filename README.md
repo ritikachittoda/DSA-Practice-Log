@@ -687,4 +687,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Maximum Product of Three Elements After One Replacement 
   - Platform: LeetCode
   - [Code](./Day93/MaxThreeProduct.java)
+
+- **Day 94 – Nov 7, 2025**  
+  - Problem: Candy
+  - Platform: LeetCode
+  - [Code](./Day94/Candy.java)
   
