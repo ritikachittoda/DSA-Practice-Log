@@ -692,4 +692,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Candy
   - Platform: LeetCode
   - [Code](./Day94/Candy.java)
+
+- **Day 95 – Nov 8, 2025**  
+  - Problem: Count Subarrays With Majority Element I
+  - Platform: LeetCode
+  - [Code](./Day95/MajoritySubarray.java)
   
