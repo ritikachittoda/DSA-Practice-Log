@@ -697,4 +697,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Count Subarrays With Majority Element I
   - Platform: LeetCode
   - [Code](./Day95/MajoritySubarray.java)
+
+- **Day 96 – Nov 9, 2025**  
+  - Problem: Minimum Distance Between Three Equal Elements I
+  - Platform: LeetCode
+  - [Code](./Day96/MinDist.java)
   
