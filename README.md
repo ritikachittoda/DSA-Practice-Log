@@ -702,4 +702,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Minimum Distance Between Three Equal Elements I
   - Platform: LeetCode
   - [Code](./Day96/MinDist.java)
+
+- **Day 97 – Nov 10, 2025**  
+  - Problem: Intersection of Two Arrays
+  - Platform: LeetCode
+  - [Code](./Day97/IntersectionArrays.java)
   
