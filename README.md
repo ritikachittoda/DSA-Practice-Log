@@ -707,4 +707,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Intersection of Two Arrays
   - Platform: LeetCode
   - [Code](./Day97/IntersectionArrays.java)
+
+- **Day 98 – Nov 11, 2025**  
+  - Problem: Longest Palindrome
+  - Platform: LeetCode
+  - [Code](./Day98/LongestPalindrome.java)
   
