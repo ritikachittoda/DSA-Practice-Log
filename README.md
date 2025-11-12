@@ -712,4 +712,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Longest Palindrome
   - Platform: LeetCode
   - [Code](./Day98/LongestPalindrome.java)
+
+- **Day 99 – Nov 12, 2025**  
+  - Problem: Wildcard Matching
+  - Platform: LeetCode
+  - [Code](./Day99/Matching.java)
   
