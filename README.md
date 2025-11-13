@@ -717,4 +717,9 @@ This repository contains DSA practice journey. I solve problems from platforms l
   - Problem: Wildcard Matching
   - Platform: LeetCode
   - [Code](./Day99/Matching.java)
+
+- **Day 100 – Nov 13, 2025**  
+  - Problem: Maximum Number of Operations to Move Ones to the End
+  - Platform: LeetCode
+  - [Code](./Day100/OnesToEnd.java)
   
